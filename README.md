@@ -22,3 +22,8 @@ A real-time drowsiness detection system built using Python and OpenCV. This proj
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+Drowsiness-Detection/
+│── main.py        # Main detection code
+│── alarm.wav      # Alarm sound file
