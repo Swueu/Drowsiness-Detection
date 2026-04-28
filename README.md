@@ -1,2 +1,24 @@
-# Drowsiness-Detection
-A real-time drowsiness detection system using Python, OpenCV, and computer vision techniques. The system detects face and eye movements via webcam and triggers a custom alarm when prolonged eye closure is detected. Designed for applications like driver safety and fatigue monitoring.
+# 🚨 Drowsiness Detection System
+
+A real-time drowsiness detection system built using Python and OpenCV. This project monitors eye movements through a webcam and triggers an alarm when the user appears sleepy.
+
+---
+
+## 📌 Features
+- Real-time face and eye detection
+- Detects prolonged eye closure
+- Triggers custom alarm sound (alarm.wav)
+- Simple and lightweight system
+- Useful for driver safety and fatigue detection
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- OpenCV
+- Computer Vision
+- Haar Cascade Classifier
+
+---
+
+## 📂 Project Structure
